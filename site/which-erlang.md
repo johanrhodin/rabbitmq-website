@@ -96,7 +96,7 @@ For RabbitMQ releases that have reached end of life, see [Unsupported Series Com
     </td>
     <td>
       <ul>
-        <li>24.2</li>
+        <li>24.2.x</li>
       </ul>
     </td>
     <td>
@@ -135,7 +135,7 @@ For RabbitMQ releases that have reached end of life, see [Unsupported Series Com
     </td>
     <td>
       <ul>
-        <li>24.x</li>
+        <li>24.2</li>
       </ul>
     </td>
     <td>
